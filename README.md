@@ -83,6 +83,3 @@ It’s for makers who appreciate:
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to print, remix, and bring more dramatic lighting into your world.
 
----
-
-Would you like me to turn this into a downloadable `.md` file or prep the folder structure too?
